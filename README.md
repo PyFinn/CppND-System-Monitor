@@ -1,6 +1,6 @@
 # CppND-System-Monitor
 
-Starter code for System Monitor Project in the C++ OOP course. Most of the code is provided for you here. Follow along with the classroom lesson to fill out the `ProcessParser` and `Process` classes to complete your project!
+Finished code for System Monitor Project in the C++ OOP course. Most of the code was provided already. I followed along with the classroom lesson to fill out the `ProcessParser` and `Process` classes to complete my project!
 
 ## To setup and compile in Udacity Ubuntu workspace:
 
